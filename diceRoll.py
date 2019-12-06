@@ -21,7 +21,7 @@ while True:
 # count the number of times each number appears in n_max rolls append
 # and calculate the percent
 for y in range(1, 7):
-    print(f"The number of times {y+1} was rolled: {rolls.count(y)}")
+    print(f"The number of times {y} was rolled: {rolls.count(y)}")
     percent = rolls.count(y) * 100 / max_n
-    print(f"The percent of times {y+1} was rolled: {percent}")
+    print(f"The percent of times {y} was rolled: {percent}")
     print("\n")
