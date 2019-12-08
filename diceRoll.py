@@ -5,7 +5,7 @@ import random
 # roll a die n_max times and store the rolls in a list
 min = 1
 max = 6
-n = 0
+n = 1
 rolls = []
 while True:
     max_n = int(input("How many times do you want to roll the die? "))
