@@ -1,4 +1,4 @@
-# demonstration of experimental probability with the rol of a single die
+# demonstration of experimental probability with the roll of a single die
 # adapted from https://www.pythonforbeginners.com/code-snippets-source-code/game-rolling-the-dice/
 import random
 
